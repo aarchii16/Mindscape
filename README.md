@@ -129,14 +129,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - UI design inspired by modern wellness applications
 - Icons provided by Lucide React
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/shouryakakkar/Mindscape/issues) page
-2. Create a new issue with detailed information
-3. Contact the maintainers
-
 ## 🔒 Security
 
 This application handles sensitive mental health data. Please ensure:
